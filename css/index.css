@@ -1,0 +1,108 @@
+*{
+	
+}
+
+#Title{
+	margin-top: 30vh;
+	text-align: center;
+	font-size: 6vw;
+	font-family: "Roboto Mono";
+	margin-bottom: 1vh;
+}
+
+#Contacts{
+	text-align: right;
+	font-size: 1.3vw;
+	font-family: "Roboto Mono";
+	margin-top: 3vh;
+	margin-right: 1vw;
+}
+
+.email{
+}
+
+.email a{
+	text-decoration: none;
+	color: #4D88AF;
+}
+
+.email a:hover{
+	color:green;
+}
+
+.lg{
+	margin-left: 4vw;
+}
+
+.lg a{
+	text-decoration: none;
+	color: #4D88AF;
+}
+
+.lg a:hover{
+	color:green;
+}
+
+#Sticks{
+	/*border: dashed;*/
+	margin-left: 27vw;
+	margin-right: 27vw;
+	margin-bottom: 7vh;
+}
+
+#Stick2{
+	margin-left:4vw;
+}
+#test{
+	text-decoration: none;
+}
+
+#Stick3{
+	margin-left:8vw;
+}
+
+#Stick1{
+	margin-left: 8vw;
+}
+
+
+#Caption2{
+	font-family: "Roboto Mono";
+	margin-left: 5.3vw;
+	font-size: 1.3vw;
+}
+
+#Caption3{
+	font-family: "Roboto Mono";
+	margin-left: 8.5vw;
+	font-size: 1.3vw;
+}
+
+#Caption1{
+	font-family: "Roboto Mono";
+	margin-left: 9.2vw;
+	font-size: 1.3vw;
+}
+
+#Stick2 a{
+	text-decoration: none;
+}
+
+#Stick3 a{
+	text-decoration: none;
+}
+
+#Caption2 a{
+	text-decoration: none;
+	color: #FC48A1;
+}
+
+#Caption3 a{
+	text-decoration: none;
+	color: #FCAD2A;
+}
+
+#Caption1 a{
+	text-decoration: none;
+	color: #1CA3FC;
+}
