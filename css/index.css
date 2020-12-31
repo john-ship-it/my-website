@@ -44,65 +44,32 @@
 }
 
 #Sticks{
-	/*border: dashed;*/
 	margin-left: 27vw;
 	margin-right: 27vw;
 	margin-bottom: 7vh;
+	/*white-space: nowrap;*/
+	text-align: center;
+
 }
 
 #Stick2{
-	margin-left:4vw;
-}
-#test{
-	text-decoration: none;
+	display: inline-block;
 }
 
 #Stick3{
-	margin-left:8vw;
+	display: inline-block;
 }
 
 #Stick1{
-	margin-left: 8vw;
+	display: inline-block;
 }
 
-
-#Caption2{
+.captions{
 	font-family: "Roboto Mono";
-	margin-left: 5.3vw;
 	font-size: 1.3vw;
+	text-align: center;
 }
 
-#Caption3{
-	font-family: "Roboto Mono";
-	margin-left: 8.5vw;
-	font-size: 1.3vw;
-}
-
-#Caption1{
-	font-family: "Roboto Mono";
-	margin-left: 9.2vw;
-	font-size: 1.3vw;
-}
-
-#Stick2 a{
+.hyperlink{
 	text-decoration: none;
-}
-
-#Stick3 a{
-	text-decoration: none;
-}
-
-#Caption2 a{
-	text-decoration: none;
-	color: #FC48A1;
-}
-
-#Caption3 a{
-	text-decoration: none;
-	color: #FCAD2A;
-}
-
-#Caption1 a{
-	text-decoration: none;
-	color: #1CA3FC;
 }
